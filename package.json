@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-select-toggleizer",
+  "version": "0.1.0",
+  "description": "Convert select boxes into Bootstrap button group toggles.",
+  "main": "select-toggleizer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelMackus/bootstrap-select-toggleizer"
+  },
+  "bugs": {
+    "url": "https://github.com/MichaelMackus/bootstrap-select-toggleizer/issues"
+  },
+  "homepage": "https://github.com/MichaelMackus/bootstrap-select-toggleizer"
+}
